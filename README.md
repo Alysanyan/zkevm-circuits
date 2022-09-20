@@ -5,7 +5,6 @@
 Check out the work in progress [specification](https://github.com/privacy-scaling-explorations/zkevm-specs) to learn how it works.
 
 
-## Getting started
 
 To run the same tests as the CI, please use: `make test-all`.
 
